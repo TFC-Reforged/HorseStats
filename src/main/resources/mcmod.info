@@ -1,0 +1,16 @@
+[
+{
+  "modid": "horsestats",
+  "name": "Horse Stats",
+  "description": "A simple mod that allows you to shift right click (holding a stick) on a horse to see its stats.",
+  "version": "1.0.1",
+  "mcversion": "1.12.2",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/horse-stats",
+  "updateUrl": "",
+  "authorList": ["lerrific"],
+  "credits": "Thanks to my friend 0rbic and the Forge guys",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
